@@ -1,4 +1,4 @@
-# 🏆 AVI Challenge 2025 - Track2: Personality Assessment
+# 🏆 AVI Challenge 2025 - Track2: Interview Performance Assessment
 
 AVI Challenge 2025 Track 2: Interview Performance Assessment - Championship Solution
 
