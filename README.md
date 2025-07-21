@@ -1,6 +1,6 @@
-# 🏆 AVI Challenge 2025 - Track2: Interview Performance Assessment
+# 🏆 ACM Multimedia AVI Challenge 2025 - Track2: Interview Performance Assessment
 
-AVI Challenge 2025 Track 2: Interview Performance Assessment - Championship Solution
+ACM Multimedia AVI Challenge 2025 Track 2: Interview Performance Assessment - Championship Solution
 
 ## 🎯 Project Overview
 
