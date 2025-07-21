@@ -1,0 +1,17 @@
+torch
+torchvision 
+torchaudio
+tensorboard
+opencv-python
+soundfile
+transformers
+
+gdown
+requests
+imageio[ffmpeg]
+
+omegaconf
+ffmpeg-python
+gradio
+spaces
+moviepy
