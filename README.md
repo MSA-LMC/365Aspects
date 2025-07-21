@@ -17,7 +17,7 @@ The task of this track is a multi-input, multi-label regression task. Given vide
 
 | **Team Name**       | **MSE (↓)** |
 |---------------------|--------------------|
-| **HFUT-VisionXL**    | **0.18240 (1)**    |
+| **HFUT-VisionXL (our)**    | **0.18240 (1)**    |
 | CAS-MAIS             | 0.18510 (2)        |
 | ABC-Lab              | 0.19394 (3)        |
 | The innovators	   | 0.20749 (4) 		|
