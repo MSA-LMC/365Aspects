@@ -1,10 +1,12 @@
-# 🏆 ACM Multimedia AVI Challenge 2025 - Track2: Interview Performance Assessment
+#  Listening to the Unspoken: Exploring 365 Aspects of Multimodal Interview Performance Assessment
 
-ACM Multimedia AVI Challenge 2025 Track 2: Interview Performance Assessment - Championship Solution
+**[MM 2025]** The official implementation for the paper titled: "Listening to the Unspoken: Exploring 365 Aspects of Multimodal Interview Performance Assessment"
+
+🏆 Championship Solution of ACM Multimedia AVI Challenge 2025 Track 2: Interview Performance Assessment
 
 ## 🎯 Project Overview
 
-The task of this track is a multi-input, multi-label regression task. Given videos in which subjects respond to both generic and personality questions, the objective is to develop models and algorithms to evaluate five job-related competencies:
+The task of Interview Performance Assessment is a multi-input, multi-label regression task. Given videos in which subjects respond to both generic and personality questions, the objective is to develop models and algorithms to evaluate five job-related competencies:
 
 - Integrity
 - Collegiality
@@ -24,6 +26,18 @@ The task of this track is a multi-input, multi-label regression task. Given vide
 | HSEmotion            | 0.22150 (5)        |
 | USTC-IAT-United      | 0.24828 (6)       |
 | DERS                 | 0.25540 (7)        |
+
+## 🧱 Model Framework
+
+<figure>
+  <img src="./background_figs/framework.png" alt="Framework Overview" style="width:100%">
+  <figcaption style="text-align: center; font-style: italic;"><b>Figure 1:</b> The overall model framework.</figcaption>
+</figure>
+
+<figure>
+  <img src="./background_figs/MSCMLP.png" alt="Framework Overview" style="width:100%">
+  <figcaption style="text-align: center; font-style: italic;"><b>Figure 2:</b> Multimodal Shared Compression Multilayer Perceptron (MSCMLP)</figcaption>
+</figure>
 
 ## ⚙️ Directory Structure
 
