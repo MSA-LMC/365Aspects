@@ -1,6 +1,6 @@
 #  Listening to the Unspoken: Exploring "365" Aspects of Multimodal Interview Performance Assessment
 
-**[MM 2025]** The official implementation for the paper titled: "Listening to the Unspoken: Exploring 365 Aspects of Multimodal Interview Performance Assessment"
+**[MM 2025]** The official implementation for the paper titled: "Listening to the Unspoken: Exploring '365' Aspects of Multimodal Interview Performance Assessment"
 
 🏆 Championship Solution of ACM Multimedia AVI Challenge 2025 Track 2: Interview Performance Assessment
 
